@@ -16,6 +16,6 @@ permissions:
 
 jobs:
   terraform-module:
-    uses: /Users/nhanlh97/IdeaProjects/spring-thymeleaf/.github/workflows/release-branch.yml@main
+    uses: nhanlh97/Nhanlh97-Mork-2023/.github/workflows/release-branch.yml@main
     secrets:
       github_access_token: ${{ secrets.REPO_ACCESS_TOKEN }}

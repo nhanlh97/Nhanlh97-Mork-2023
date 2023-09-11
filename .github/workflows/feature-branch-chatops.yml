@@ -11,6 +11,6 @@ permissions:
 
 jobs:
   terraform-module:
-    uses: cloudposse/github-actions-workflows-terraform-module/.github/workflows/feature-branch-chatops.yml@main
+    uses: nhanlh97/Nhanlh97-Mork-2023/.github/workflows/feature-branch-chatops.yml@main
     secrets:
       github_access_token: ${{ secrets.REPO_ACCESS_TOKEN }}

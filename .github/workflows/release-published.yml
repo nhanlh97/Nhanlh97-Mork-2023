@@ -11,4 +11,4 @@ permissions:
 
 jobs:
   terraform-module:
-    uses: /Users/nhanlh97/IdeaProjects/spring-thymeleaf/.github/workflows/release.yml@main
+    uses: nhanlh97/Nhanlh97-Mork-2023/.github/workflows/release.yml@main
