@@ -29,7 +29,7 @@ services:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_USERNAME=app
       - MYSQL_PASSWORD=app
-      - MYSQL_DATABASE=cargarage
+      - MYSQL_DATABASE=spring-thymeleaf
       - MYSQL_ROOT_HOST=%
     networks:
       - app
