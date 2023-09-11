@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - release/**
+      - master/**
     paths-ignore:
       - '.github/**'
       - 'src/**'
